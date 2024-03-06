@@ -1,9 +1,11 @@
-//File: hello.cpp
 #include <iostream>
 using namespace std;
 
 int main(void) {
-  cout << "Hello, World\n";
-  cout << "This is Pavani\n";
+for(int i=1;i<=5;i++){
+        cout << i <<"\n";
+    }
   return 0;
 }
+
+
